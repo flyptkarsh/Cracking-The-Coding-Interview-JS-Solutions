@@ -1,6 +1,6 @@
 
 # JS Solution The Coding Interview
-## Ruby Solutions
+## JS Solutions
 The problems in Cracking The Coding Interview are in Java, but I work in Javascript.
 
 I was thinking of writing algorithms some Medium articles on for non-CS majors. 
