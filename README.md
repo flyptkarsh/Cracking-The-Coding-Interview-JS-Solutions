@@ -1,5 +1,5 @@
 
-# Cracking The Coding Interview
+# JS Solution The Coding Interview
 ## Ruby Solutions
 The problems in Cracking The Coding Interview are in Java, but I work in Javascript.
 
